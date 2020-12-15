@@ -1,2 +1,2 @@
-# Chat-Room-Java-
-A Chat Room Application written in Java
+# Chat-Room-Python-
+A Chat Room Application written in Python
